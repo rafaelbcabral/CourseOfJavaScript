@@ -10,7 +10,7 @@ alunos.push('pedro'); //adiciona no fim.
 
 const removido = alunos.pop(); // remove no final.
 const removido2 = alunos.shift(); //remove no inicio.
-
+AAAA
 console.log (alunos instanceof Array); // para verificar se essa const é um array.
 
 
